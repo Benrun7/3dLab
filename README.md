@@ -1,2 +1,10 @@
 # 3dLab
-Technological solutions for Additive Manufacturing workflows
+3d-laboratory.ru
+
+Набор внутренних инструментов для автоматизации задач аддитивного производства:
+- экспресс-анализ моделей,
+- оценка пригодности деталей под SLS/SLM,
+- прототипы модулей ориентации и cost-estimation,
+- интеграции с Materialise Magics.
+
+Репозиторий в активной разработке. Структура и API могут меняться.
