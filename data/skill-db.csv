@@ -1,0 +1,141 @@
+№,Knowledge,Completion,Description,Success Criteria,Level,Type,Domain,База скиллов
+1,Жизненный цикл проекта,Yes,Инициирование–план–исполнение–контроль–закрытие,Перечисляю этапы без подсказок; могу проставить текущий статус по каждому для своего проекта.,Junior,Management,Project Management 101,Project Management 101
+2,Гибкие методологии,Yes,"Сравнение каскадного и гибкого подходов, понимание, где какой уместен.",Знаю разницу на простом примере; умею выбирать подход для задачи и аргументировать.,Junior,Management,Project Management 101,Project Management 101
+3,Scope проекта,Yes,Что делаем / не делаем,"Знаю, как описать scope/out of scope и умею сформулировать его в 5–7 пунктов.",Junior,Management,Project Management 101,Project Management 101
+4,WBS и декомпозиция,Yes,Разбиение цели проекта на управляемые работы и задачи,Умею разложить цель на WBS до уровня задач без пропусков,Junior,Management,Project Management 101,Project Management 101
+5,Роли проекта,Yes,"PM, PO, команда, заказчик",Знаю роли участников и умею объяснить каждому его зону ответственности.,Junior,Management,Project Management 101,Project Management 101
+6,Базовое планирование,Yes,Методы оценки задач,Умею составить план с датами и кратко обосновать оценки по задачам.,Junior,Management,Project Management 101,Project Management 101
+7,Базовая отчётность,No,Формат статусов и контроля,Мои статусы понятны стейкхолдерам и не вызывают уточняющих вопросов.,Junior,Management,Project Management 101,Project Management 101
+8,Базовые понятия риска,Yes,"Вероятность, влияние, триггеры",Я отличаю риск от проблемы и формулирую их правильно.,Junior,Management,Risk Management,Risk Management
+9,Идентификация рисков,No,Инструменты сбора рисков,Я собираю полный список рисков по проекту без явных пропусков. Владею методологиями сбора,Junior,Management,Risk Management,Risk Management
+10,Оценка и визуализация рисков,Yes,Матрица вероятности/влияния,Я могу расставить риски по матрице и выбрать топ-критичные,Junior,Management,Risk Management,Risk Management
+11,SWOT-анализ,Yes,"Силы, слабости, возможности и риски",Я провожу SWOT и делаю практичные выводы для проекта.,Junior,Management,Risk Management,Risk Management
+12,PESTEL-анализ,No,Анализ внешних рисков,Я могу назвать минимум по одному внешнему риску в каждой категории.,Junior,Management,Risk Management,Risk Management
+13,План реагирования,Yes,Стратегии avoid/ mitigate/ transfer/ accept/ escalate,Умею для топ-рисков выбрать стратегию реагирования и назначить ответственных.,Junior,Management,Risk Management,Risk Management
+14,Реестр рисков,Yes,"Таблица рисков, действий и статусов","Умею вести risk log так, чтобы по нему было понятно состояние рисков проекта.",Junior,Management,Risk Management,Risk Management
+15,Роли и ответственность,No,RACI и распределение задач.,"Умею разнести задачи по RACI так, чтобы не было «ничьих» зон.",Junior,Management,People Management,People Management
+16,Постановка задач,Yes,"Цель, срок и критерии done","Умею формулировать задачу так, что человек может пересказать её своими словами.",Junior,Management,People Management,People Management
+17,1:1 и обратная связь,Yes,Регулярные личные встречи и умение давать фидбек,"Умею проводить 1:1, где человек уходит с понятными договорённостями и следующими шагами.",Junior,Management,People Management,People Management
+18,Мотивация команды,No,Драйверы и демотиваторы,Знаю основные мотиваторы ключевых людей и умею учитывать их в работе.,Junior,Management,People Management,People Management
+19,Управление конфликтами,No,Базовые техники урегулирования,"Умею разруливать конфликт так, чтобы стороны договорились о конкретных шагах.",Junior,Management,People Management,People Management
+20,Онбординг новичка,No,Ввод в команду и проект,"Умею составить простой план онбординга, по которому новичок выходит на продуктив за 2–3 недели.",Junior,Management,People Management,People Management
+21,Performance review,No,Разбор результатов и план развития,"Умею провести ревью так, чтобы человек понял свои сильные стороны и зоны роста",Junior,Management,People Management,People Management
+22,Карта стейкхолдеров,Yes,Матрица влияния и интереса,Умею построить карту стейкхолдеров и выделить ключевых по влиянию,Junior,Management,Stakeholder Management,Stakeholder Management
+23,Анализ ожиданий,Yes,Требования и критерии успеха,Умею собрать и зафиксировать ожидания каждого ключевого стейкхолдера,Junior,Management,Stakeholder Management,Stakeholder Management
+24,План коммуникаций,No,"Формат, частота и каналы",Умею составить план коммуникаций и согласовать его с участниками,Junior,Management,Stakeholder Management,Stakeholder Management
+25,Управление ожиданиями,Yes,Корректировка запросов и ожиданий,Умею корректно объяснить ограничения и согласовать реалистичные ожидания,Junior,Management,Stakeholder Management,Stakeholder Management
+26,Работа с рекламациями,No,Обработка жалоб и претензий,Умею структурировано разобрать эскалацию и предложить понятный план действий,Junior,Management,Stakeholder Management,Stakeholder Management
+27,Презентация статусов,No,Доклады для бизнеса,"Умею провести статус-сессию, после которой стейкхолдеры понимают, что происходит",Junior,Management,Stakeholder Management,Stakeholder Management
+28,Работа с трудными стейкхолдерами,Yes,Токсичные/хаотичные люди,Умею выстраивать рабочие отношения с «сложными» людьми без постоянных конфликтов,Junior,Management,Stakeholder Management,Stakeholder Management
+29,Структура блокчейна,No,"Блоки, хеши, цепочка","Знаю, как формируется блок и почему данные в цепочке нельзя просто подменить",Junior,Crypto,Web3 and Crypto Basics,Web3 and Crypto Basics
+30,Механизм транзакций и gas,No,Комиссии и подтверждения,Умею объяснить путь транзакции от кошелька до включения в блок и от чего зависит gas,Junior,Crypto,Web3 and Crypto Basics,Web3 and Crypto Basics
+31,Адреса и ключи,No,"Публичный/приватный ключ, сид-фраза, безопасность","Знаю, чем отличаются адрес и приватный ключ и умею сформулировать правила их защиты",Junior,Crypto,Web3 and Crypto Basics,Web3 and Crypto Basics
+32,Основы смарт-контрактов,No,,"Умею на примере объяснить, как смарт-контракт управляет балансами и правилами",Junior,Crypto,Web3 and Crypto Basics,Web3 and Crypto Basics
+33,Стандарты токенов ERC-20/721,No,,Знаю основные функции ERC-20/721 и умею описать разницу между ними,Junior,Crypto,Web3 and Crypto Basics,Web3 and Crypto Basics
+34,Сети,No,Основные сети и роллапы (L1/L2),"Умею объяснить, зачем нужны L2 и чем они отличаются от L1",Junior,Crypto,Web3 and Crypto Basics,Web3 and Crypto Basics
+35,Базовые крипто-риски,No,"Потеря ключей, скамы, фишинг. Методы борьбы",Знаю основные риски и умею сформулировать минимальные правила безопасности для новичка,Junior,Crypto,Web3 and Crypto Basics,Web3 and Crypto Basics
+36,SDLC,No,"Требования, разработка, тесты, релиз, поддержка","Знаю фазы SDLC и умею определить, на какой из них находится фича.",Junior,Tech,Software Development,Software Development
+37,Scrum-процесс,No,"Роли, спринты, артефакты",Умею описать цикл спринта от планирования до ретро и роли внутри Scrum,Junior,Tech,Software Development,Software Development
+38,Kanban-подход,No,Поток задач и WIP-лимиты,"Умею настроить доску Kanban и объяснить, как WIP-лимиты уменьшают незавершёнку",Junior,Tech,Software Development,Software Development
+39,Git основы,No,"Коммиты, ветки, merge, PR",Знаю базовые операции Git и умею читать историю изменений по репозиторию,Junior,Tech,Software Development,Software Development
+40,Чтение кода,No,Понимание простых функций,"Умею прочитать простой фрагмент кода и словами описать, что он делает",Junior,Tech,Software Development,Software Development
+41,Окружения dev/test/prod,No,,"Знаю назначение каждой среды и умею понять, где сейчас живёт фича",Junior,Tech,Software Development,Software Development
+42,CI/CD базовый пайплайн,No,"Автосборка, выкаты версий",Умею нарисовать схему пайплайна и описать его шаги на уровне PM,Junior,Tech,Software Development,Software Development
+43,Дискавери-интервью,No,Выявление реальной задачи клиента,Умею провести интервью и получить 3–5 чётких проблем клиента,Middle,Management,Presale Activities,Presale Activities
+44,Сбор и формализация требований,No,Перевод хотелок в требования,"Умею оформить требования в документ, который клиент может утвердить",Middle,Management,Presale Activities,Presale Activities
+45,Оценка объёма и сроков,No,Без помощи команды,"Умею дать оценку по объёму и срокам, которую признаёт реалистичной команда",Middle,Management,Presale Activities,Presale Activities
+46,Структура коммерческого предложения,No,"Проблема, решение, объём, сроки, бюджет","Умею собрать КП, по которому клиент понимает, что получит и за сколько",Middle,Management,Presale Activities,Presale Activities
+47,Презентация решения,No,Питч для клиента,"Умею провести презентацию так, чтобы клиент понял ценность и следующие шаги",Middle,Management,Presale Activities,Presale Activities
+48,Согласование условий,No,"TOR, SLA, ограничения",Умею формализовать ключевые условия и согласовать их без потери отношений,Middle,Management,Presale Activities,Presale Activities
+49,Передача в продакшн,No,Хендовер проекта,"Умею передать проект в команду так, чтобы им не пришлось «дособирать» контекст",Middle,Management,Presale Activities,Presale Activities
+50,Количественная оценка рисков,No,Деньги/часы потерь,Умею оценить риск в деньгах/ресурсах и сравнивать риски между собой,Middle,Management,Advanced Risk Management,Advanced Risk Management
+51,RAID-лог,No,"Риски, допущения, проблемы, зависимости","Умею вести RAID-лог так, чтобы по нему можно было управлять проектом",Middle,Management,Advanced Risk Management,Advanced Risk Management
+52,Мониторинг рисков и триггеры,No,Отслеживание наступления риска,Умею задавать триггеры и регулярно проверять их по ключевым рискам,Middle,Management,Advanced Risk Management,Advanced Risk Management
+53,Risk burndown,No,Динамика снижения рисков,"Умею визуализировать, как меняется суммарный риск проекта во времени",Middle,Management,Advanced Risk Management,Advanced Risk Management
+54,Резервы времени и бюджета,No,Буферизация под риски,Умею закладывать реалистичные резервы в план и бюджет,Middle,Management,Advanced Risk Management,Advanced Risk Management
+55,Управление инцидентами,No,Алгоритм действий при наступлении риска,Умею действовать по заранее описанному плану при инциденте,Middle,Management,Advanced Risk Management,Advanced Risk Management
+56,Пост-мортем и уроки,No,Ревью и разбор инцидентов,Умею проводить пост-мортем и оформлять 2–3 конкретных улучшения в процессах,Middle,Management,Advanced Risk Management,Advanced Risk Management
+57,План–факт по срокам,No,Сравнение плана и реальности,Умею наглядно показать отклонения по срокам и объяснить причины,Middle,Management,Advanced Risk Management,Advanced Risk Management
+58,Управление ресурсами,No,Загрузка людей и команд,Умею оценить загрузку команды и перераспределить ресурсы при перегрузе,Middle,Management,Advanced Risk Management,Advanced Risk Management
+59,Управление изменениями scope,No,Change requests management,"Умею оформлять изменения scope и пересобирать план, не теряя контроль",Middle,Management,Advanced Risk Management,Advanced Risk Management
+60,Многопроектность,No,Несколько инициатив одновременно,"Умею вести несколько проектов параллельно, не теряя задачи и статусы",Middle,Management,Advanced Risk Management,Advanced Risk Management
+61,Управление зависимостями,No,Межкомандные/внешние зависимости,Умею выявить критичные зависимости и встроить их в план,Middle,Management,Advanced Risk Management,Advanced Risk Management
+62,Документирование проекта,No,Решения и артефакты,"Умею хранить документацию так, чтобы любой участник нашёл нужный артефакт",Middle,Management,Advanced Risk Management,Advanced Risk Management
+63,Улучшение процессов,No,Эксперименты и изменения,Умею запускать маленькие процессные эксперименты и доводить до внедрения,Middle,Management,Advanced Project Management ,Advanced Project Management
+64,Vision продукта,No,Для кого и какую боль решает,Умею чётко сформулировать vision продукта за 30 секунд,Middle,Management,Product Ownership,Product Ownership
+65,Пользовательские сценарии,No,Основные flow и задачи пользователя,Умею описать 3–5 ключевых сценариев использования продукта,Middle,Management,Product Ownership,Product Ownership
+66,PRD,No,Структурированное описание фичи/релиза,"Умею написать PRD так, что разработка и QA понимают, что делать",Middle,Management,Product Ownership,Product Ownership
+67,Структура задач,No,Backlog: эпики и истории,Умею разложить эпик на истории и поддерживать backlog в чистом состоянии,Middle,Management,Product Ownership,Product Ownership
+68,Приоритизация фич,No,Что делать первым,"Умею аргументированно объяснить, почему эти фичи стоят в топе",Middle,Management,Product Ownership,Product Ownership
+69,Продуктовые метрики,No,North Star и KPI,Знаю ключевую метрику продукта и умею связать с ней фичи,Middle,Management,Product Ownership,Product Ownership
+70,Обработка фидбека,No,"Баги, идеи, отзывы",Умею собирать входящие сигналы в единое место и превращать их в решения,Middle,Management,Product Ownership,Product Ownership
+71,Консенсусные алгоритмы,No,PoS/DPoS/BFT,"Знаю, как сеть приходит к согласию и умею кратко сравнить разные алгоритмы",Middle,Crypto,Web3 Advanced,Web3 Advanced
+72,Архитектура кошельков,No,"Hot/cold, multisig, MPC",Умею объяснить плюсы и минусы разных типов кошельков для продукта,Middle,Crypto,Web3 Advanced,Web3 Advanced
+73,Архитектура смарт-контрактов,No,"Storage, события, прокси",Умею построить блок-схему контракта и выделить ключевые точки риска,Middle,Crypto,Web3 Advanced,Web3 Advanced
+74,Уязвимости контрактов,No,"Reentrancy, frontrun, oracle-risk",Знаю основные паттерны уязвимостей и умею распознать их в описании,Middle,Crypto,Web3 Advanced,Web3 Advanced
+75,Cross-chain мосты,No,Передача активов между сетями,"Умею объяснить, как работает мост и где в нём чаще всего ломается безопасность",Middle,Crypto,Web3 Advanced,Web3 Advanced
+76,RPC и ноды,No,Взаимодействие приложения с сетью,"Знаю, что такое RPC-провайдеры и умею учитывать их ограничения в продукте",Middle,Crypto,Web3 Advanced,Web3 Advanced
+77,Базовый on-chain анализ,No,"Логи, события, дашборды",Умею открыть адрес/контракт и прочитать базовые on-chain показатели,Middle,Crypto,Web3 Advanced,Web3 Advanced
+78,Модель AMM x*y=k,No,Ценообразование на DEX,"Умею на простом примере объяснить, почему цена меняется при сделке",Middle,Crypto,DeFi / Trading,DeFi / Trading
+79,Liquidity,No,Пулы ликвидности и Liquidity Provider,"Умею описать, откуда LP получают доход и какие у них риски",Middle,Crypto,DeFi / Trading,DeFi / Trading
+80,Имперманентный убыток,No,Потери LP относительно холда,"Умею на цифрах показать, как возникает impermanent loss",Middle,Crypto,DeFi / Trading,DeFi / Trading
+81,Lending/Borrowing,No,Займы под залог,"Знаю, как работает залог и умею объяснить механику ликвидации",Middle,Crypto,DeFi / Trading,DeFi / Trading
+82,Perpetual futures,No,"Перпы, плечо, funding",Умею объяснить разницу между спотом и перпами и роль funding,Middle,Crypto,DeFi / Trading,DeFi / Trading
+83,Основные DeFi-риски,No,"Контракты, ликвидность, оракулы",Знаю ключевые типы рисков и умею быстро оценить риск-профиль протокола,Middle,Crypto,DeFi / Trading,DeFi / Trading
+84,Путь пользователя в DeFi,No,"Ввод, использование, вывод",Умею описать полный путь новичка через конкретный DeFi-продукт,Middle,Crypto,DeFi / Trading,DeFi / Trading
+85,Особенности крипто-команд,No,"Анонимность, распределённость",Знаю типичные проблемы крипто-команд и умею учитывать их в планировании,Middle,Crypto,Project Management in Crypto,Project Management in Crypto
+86,Планирование релизов контрактов,No,"Тестнет, аудит, mainnet",Умею составить план релиза смарт-контрактов с основными этапами,Middle,Crypto,Project Management in Crypto,Project Management in Crypto
+87,Работа с аудиторами и bug bounty,No,Подготовка и реакция,Умею организовать аудит и обработать найденные замечания,Middle,Crypto,Project Management in Crypto,Project Management in Crypto
+88,Координация с маркетингом и коммьюнити,No,Синхрон релизов и инфополя,"Умею согласовать релиз так, чтобы продукт, маркетинг и коммьюнити шли в одном темпе",Middle,Crypto,Project Management in Crypto,Project Management in Crypto
+89,Управление on-chain инцидентами,No,"Взломы, баги, атаки",Умею действовать по плану при on-chain инциденте и коммуницировать с пользователями,Middle,Crypto,Project Management in Crypto,Project Management in Crypto
+90,Roadmap и DAO,No,Голосования и приоритизация,Умею учитывать решения DAO при обновлении дорожной карты,Middle,Crypto,Project Management in Crypto,Project Management in Crypto
+91,Прозрачность для сообщества,No,Апдейты и постмортемы,"Умею готовить публичные апдейты так, чтобы сохранять доверие сообщества",Middle,Crypto,Project Management in Crypto,Project Management in Crypto
+92,Онбординг Web3-пользователя,No,Путь до первой транзакции,Умею спроектировать онбординг с минимальным количеством точек отвалива,Middle,Crypto,Crypto Product Skills,Crypto Product Skills
+93,Геймификация: points/XP/quests,No,Стимулирование действий пользователя,Умею придумать простую систему поощрений под нужные действия пользователя,Middle,Crypto,Crypto Product Skills,Crypto Product Skills
+94,Utility токена,No,Польза и сценарии применения,"Знаю, зачем токен продукту, и умею описать основные сценарии его использования",Middle,Crypto,Crypto Product Skills,Crypto Product Skills
+95,Базовая токеномика,No,"Supply, эмиссия, вестинг","Умею на пальцах объяснить, как параметры эмиссии влияют на экономику токена",Middle,Crypto,Crypto Product Skills,Crypto Product Skills
+96,On-chain продуктовые метрики,No,Активность кошельков и удержание,Умею выбрать 2–3 ключевые on-chain-метрики для продукта,Middle,Crypto,Crypto Product Skills,Crypto Product Skills
+97,Growth-кампании,No,"Airdrop, рефералки, квесты",Умею набросать план простой growth-кампании и оценить её риски,Middle,Crypto,Crypto Product Skills,Crypto Product Skills
+98,Баланс интересов проекта и коммьюнити,No,Работа с доверием и экономическим эффектом,"Умею распознать решения, которые подорвут доверие коммьюнити, и предложить мягкие альтернативы",Middle,Crypto,Crypto Product Skills,Crypto Product Skills
+99,Декомпозиция стратегии в OKR,No,Цели и ключевые результаты,Умею перевести стратегическую цель в набор конкретных OKR,Senior,Management,Strategic Alignment,Strategic Alignment
+100,Карта влияния продукта на бизнес,No,Связь фич и метрик,"Умею связать фичу с бизнес-метриками, на которые она влияет",Senior,Management,Strategic Alignment,Strategic Alignment
+101,Отбор инициатив по impact/effort,No,Приоритизация,Умею расставить инициативы по impact/effort и выбрать фокусные,Senior,Management,Strategic Alignment,Strategic Alignment
+102,Формирование продуктового roadmap,No,План релизов,Умею собрать roadmap на 1–2 квартала с привязкой к целям,Senior,Management,Strategic Alignment,Strategic Alignment
+103,Связка проектов и KPI команды,No,Вклад в показатели,"Умею показать, какие KPI двигает каждый проект",Senior,Management,Strategic Alignment,Strategic Alignment
+104,Проверка стратегических гипотез,No,Эксперименты на уровне стратегии,Умею сформулировать стратегическую гипотезу и тест для её проверки,Senior,Management,Strategic Alignment,Strategic Alignment
+105,Коммуникация стратегии,No,Донесение «зачем» до команды,"Умею объяснить стратегию так, что её перескажет любой член команды",Senior,Management,Strategic Alignment,Strategic Alignment
+106,Анализ скрытых интересов,No,Методологии выявления настоящих мотивов,Умею выявить скрытые интересы 2–3 ключевых стейкхолдеров,Senior,Management,Advanced Stakeholder Management,Advanced Stakeholder Management
+107,Построение коалиций,No,Союзники и оппоненты,"Умею определить, с кем объединяться ради продвижения проекта",Senior,Management,Advanced Stakeholder Management,Advanced Stakeholder Management
+108,Переговоры в конфликте,No,Поиск решений,"Умею вести переговоры так, чтобы стороны уходили с рабочим компромиссом",Senior,Management,Advanced Stakeholder Management,Advanced Stakeholder Management
+109,Управление ожиданиями топов,No,Ограничение запросов,"Умею мягко, но чётко обозначать рамки перед руководством",Senior,Management,Advanced Stakeholder Management,Advanced Stakeholder Management
+110,Работа с тяжёлыми людьми,No,Токсичные/хаотичные стейкхолдеры,Умею выстраивать взаимодействие без постоянных взрывов и пассивной агрессии,Senior,Management,Advanced Stakeholder Management,Advanced Stakeholder Management
+111,Долгосрочное доверие и репутация,No,Обещания и выполнение,"Умею выстраивать репутацию человека, который делает то, что обещал",Senior,Management,Advanced Stakeholder Management,Advanced Stakeholder Management
+112,Управление информационными потоками,No,Что кому говорить и когда,"Умею продумывать, кому и в каком виде давать информацию, чтобы не устроить пожар",Senior,Management,Advanced Stakeholder Management,Advanced Stakeholder Management
+113,Лидерские стили,No,"Директивный, коучинговый и др.",Знаю основные стили лидерства и умею выбирать подходящий под ситуацию,Senior,Management,Leadership,Leadership
+114,Постановка целей,No,"Цели, которые двигают проект вперёд","Умею сформулировать цель так, что команда видит в ней смысл и достижимость",Senior,Management,Leadership,Leadership
+115,Делегирование и контроль,No,Передача задач без микроменеджмента,"Умею делегировать так, чтобы задача выполнялась без моего постоянного вмешательства.",Senior,Management,Leadership,Leadership
+116,Культура ответственности,No,Отношение к ошибкам и результатам,"Умею задавать рамку, в которой люди берут ответственность, а не перекладывают её",Senior,Management,Leadership,Leadership
+117,Решения в неопределённости,No,Выбор при нехватке данных,Умею принимать решения при неполной информации и не откатывать их при первом сопротивлении,Senior,Management,Leadership,Leadership
+118,Развитие команды,No,"Планы роста, обучение и менторинг",Умею проговорить с человеком его траекторию развития и согласовать первые шаги,Senior,Management,Leadership,Leadership
+119,Управление собой,No,"Энергия, фокус, стресс","Умею держать рабочий режим и восстанавливаться так, чтобы не выгорать каждые пару месяцев",Senior,Management,Leadership,Leadership
+120,Реестр проектов,No,Управление списком инициатив команды,Умею собрать полный реестр проектов с целями и статусами,Senior,Management,Project Portfolio Management,Project Portfolio Management
+121,Приоритизация портфеля,No,Очередность проектов,Умею расставить проекты по приоритету и объяснить критерии,Senior,Management,Project Portfolio Management,Project Portfolio Management
+122,Баланс ресурсов,No,Распределение людей и денег,Умею увидеть перегрузы по ресурсам и предложить варианты перераспределения,Senior,Management,Project Portfolio Management,Project Portfolio Management
+123,Управление зависимостями,No,Влияние проектов друг на друга,Умею выявить критичные зависимости между проектами и учесть их,Senior,Management,Project Portfolio Management,Project Portfolio Management
+124,Портфельные ревью,No,Регулярный пересмотр,Умею проводить ревью портфеля и принимать решения «ускорить/заморозить/закрыть,Senior,Management,Project Portfolio Management,Project Portfolio Management
+125,Критерии остановки проектов,No,Когда «убивать» инициативу,Умею сформулировать и применить критерии закрытия проекта,Senior,Management,Project Portfolio Management,Project Portfolio Management
+126,Визуализация портфеля,No,Дашборды и обзоры,"Умею собрать простой дашборд, по которому руководству видно состояние портфеля",Senior,Management,Project Portfolio Management,Project Portfolio Management
+127,CIA-триада,No,"Конфиденциальность, целостность, доступность",Знаю триаду и умею привести пример угрозы по каждому аспекту,Senior,Tech,Data Security Principles,Data Security Principles
+128,Управление доступами,No,"Роли, права, минимум привилегий","Умею выстроить доступы так, чтобы критичные права были только у нужных людей",Senior,Tech,Data Security Principles,Data Security Principles
+129,Хранение секретов,No,"Пароли, ключи, токены","Умею организовать хранение секретов не в чатах и Notion, а в безопасном хранилище",Senior,Tech,Data Security Principles,Data Security Principles
+130,Работа с чувствительными данными,No,Что требует особой защиты,"Знаю, какие данные в моём продукте чувствительные, и умею обозначить к ним особые требования",Senior,Tech,Data Security Principles,Data Security Principles
+131,Основные типы атак,No,"Фишинг, утечки, социнженерия","Умею распознать типичные атаки и объяснить команде, как на них не попасться",Senior,Tech,Data Security Principles,Data Security Principles
+132,Политики безопасности продукта,No,Минимальные стандарты,Умею сформулировать базовый набор security-требований для продукта,Senior,Tech,Data Security Principles,Data Security Principles
+133,Реакция на инциденты,No,План при взломе или утечке,Умею действовать по чек-листу при инциденте и вовлекать нужных людей,Senior,Tech,Data Security Principles,Data Security Principles
+134,Причины сопротивления изменениям,No,Почему люди тормозят изменения,Знаю основные причины сопротивления и умею узнавать их в команде,Senior,Tech,Change Management,Change Management
+135,Модели изменений,No,ADKAR/Kotter и этапы,"Умею разложить любое изменение по шагам модели и понять, где застряли",Senior,Tech,Change Management,Change Management
+136,План изменений и коммуникаций,No,"Кто, что и когда узнаёт",Умею составить план коммуникаций по изменению и донести его до людей,Senior,Tech,Change Management,Change Management
+137,Работа с чемпионами изменений,No,"Люди, которые тянут вперёд",Умею находить и подключать «чемпионов» изменений в команде,Senior,Tech,Change Management,Change Management
+138,Отработка негативной реакции,No,Страхи и саботаж,"Умею проводить разговоры с теми, кто сопротивляется, и снижать сопротивление",Senior,Tech,Change Management,Change Management
+139,Закрепление новых практик,No,Чтобы не откатиться назад,"Умею встроить изменения в рутину так, чтобы через месяц они не исчезли",Senior,Tech,Change Management,Change Management
+140,Измерение эффекта изменений,No,Работа с метриками,Умею выбрать 1–2 метрики и по ним показать эффект от изменений,Senior,Tech,Change Management,Change Management
